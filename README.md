@@ -1,5 +1,5 @@
 # SwiperNoSwiping
-Leap motion gesture based computer interaction, mainly Tinder but also volume controls and quick maths
+Leap Motion gesture-based computer interaction for Tinder and Windows volume controls.
 
 # Requirements
 Leap Motion Hardware, Leap Motion SDK, Pyautogui, Pygame
